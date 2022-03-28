@@ -1,4 +1,4 @@
-# CryptocurrencyApp
+# CryptoConverter
 ## Launching the App
 Java 11 and Gradle 7.0 and above are recommended to run this app.
 
